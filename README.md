@@ -4,6 +4,7 @@ How to become AWS Community Builder?
 # Useful Links and Resoures
 
 Application link for Q3 2022 - https://bit.ly/CB2022July
+Blog for Tips - https://dev.to/shaistaaman/how-to-apply-for-aws-community-builder-program-16pp
 
 # Criteria
 
